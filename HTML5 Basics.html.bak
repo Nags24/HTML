@@ -1,0 +1,28 @@
+<html>
+                        <head></head>
+                        <body>
+                            <details>
+                            <summary>HTML5 features</summary>
+                            <p>Semantic Elements</p>
+                            <p>New Inputcontrols</p>
+                            <p>New Attributes</p>
+                            <p>Web Storages</p>
+                            <p>Web workers</p>
+                            <p>Web Sockets</p>
+                            </details>
+							<div>
+							<h3>50% compelted </h3>
+                            <meter value='10' max="100">
+							</div>
+							
+							<div><input type="color" name="SivaKarthikeyan" />SivaKarthikeyan</div>
+							<div><input type="text" name="user-name" id="user-name" placeholder="at least 3 characters">
+							Thala Ajith
+							</input></div>
+							<div><input pattern="[0-9][A-Z]{3}" type="text" placeholder="Single digit followed by three uppercase letters."/></div>
+							
+							
+							
+							
+                        </body>
+                    </html>
